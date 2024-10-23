@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dariaztva10
-- 👀 I’m interested in computing
-- 🌱 I’m currently learning Full Stack Development and Informatics Engineering
+- 👀 I’m a Full Stack Developer
+- 🌱 I’m currently learning Informatics Engineering
 - 💞️ I’m a member of the 4Geeks academy and a student at the UOC campus
 - 📫 Contact me: dariaztva@gmail.com
 - ⚡ Fun fact: I love coding as much as I love rollerblading!
