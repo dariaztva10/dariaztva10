@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dariaztva10
-- 👀 I’m a Full Stack Developer
+- 👀 I’m Full Stack Developer
 - 🌱 I’m currently learning Informatics Engineering
 - 💞️ I’m a member of the 4Geeks academy and a student at the UOC campus
 - 📫 Contact me: dariaztva@gmail.com
